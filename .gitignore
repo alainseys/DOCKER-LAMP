@@ -1,0 +1,8 @@
+/.vscode
+/data/*
+/logs/*
+/.history/*
+.history/*
+
+
+.history/
